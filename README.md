@@ -13,5 +13,9 @@ python visualize.py
 
 The model will ask for the message input, and return an emphathetic response.
 
+### 3. Challenge Explanation
+
+The steps taken for the challenge is explained in the challenge_explaination document.
+
 ## Reference
 - [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers)
