@@ -1,0 +1,9 @@
+# Library dependencies for the python code.  
+#You can install these with 'pip install -r requirements.txt'
+
+numpy
+nltk
+keras
+tensorflow
+pandas
+pickle
