@@ -5,9 +5,7 @@
 ### 1. Required packages can be installed from the requirements.txt file and the sentence embedding package can be installed using
 pip install -U sentence-transformers
 
-### 2. Pretrained models are available in the pretrained_model folder.
-
-### 3. Run the model
+### 2. Run the model
 
 python visualize.py
 
