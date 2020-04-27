@@ -1,9 +1,14 @@
 # Library dependencies for the python code.  
 #You can install these with 'pip install -r requirements.txt'
 
-numpy
-nltk
+#Neural Network libraries
 keras
 tensorflow
+
+#Dataprocessing libraries
+numpy
 pandas
 pickle
+
+#NLP libraries
+nltk
