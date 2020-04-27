@@ -7,6 +7,6 @@
 
 ### 3. Run the model
 
-python visualize.py.
+$python visualize.py.$
 
 The model will ask for the message input, and return an emphathetic response.
