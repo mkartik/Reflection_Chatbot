@@ -3,6 +3,7 @@ A chatbot application that provides emphathetic response to the user's input.
 
 ## 1. Environment Setup
 pip install -r requirements.txt
+
 pip install -U sentence-transformers
 
 ## 2. Run the model
