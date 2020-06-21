@@ -9,7 +9,7 @@ pip install -U sentence-transformers
 ## 2. Train the model
 python train.py --> emp_chatbot_model.h5
 
-## 2. Run the model
+## 3. Run the model
 
 python visualize.py
 
