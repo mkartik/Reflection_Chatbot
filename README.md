@@ -1,5 +1,5 @@
 # Reflection_Chatbot
-A chatbot application that provides emphathetic response to the user's input.
+A chatbot application that provides empathetic response to the user's input.
 
 ## 1. Environment Setup
 pip install -r requirements.txt
@@ -13,7 +13,7 @@ python train.py --> emp_chatbot_model.h5
 
 python visualize.py
 
-(The model ask for the user input, and returns an emphathetic response)
+(The model ask for the user input, and returns an empathetic response)
 
 
 ## Reference
