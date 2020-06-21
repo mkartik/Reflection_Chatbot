@@ -6,11 +6,14 @@ pip install -r requirements.txt
 
 pip install -U sentence-transformers
 
+## 2. Train the model
+python train.py --> emp_chatbot_model.h5
+
 ## 2. Run the model
 
 python visualize.py
 
-The model will ask for the message input, and return an emphathetic response.
+(The model ask for the user input, and returns an emphathetic response)
 
 
 ## Reference
